@@ -1,0 +1,84 @@
+p
+{
+	font-size: 1.2em;
+}
+h1
+{
+	font-size: 3em;
+}
+h2
+{
+	font-size: 2.5em
+}
+p
+{
+	font-family:;
+}
+h1
+{
+	font-family: Verdana
+}
+h2
+{
+	font-family: Georgia;
+}
+h2
+{
+	font-style: italic;
+}
+h1
+{
+	font-weight: bold;
+}
+p
+{
+	text-align: justify;
+	opacity: 0.2
+}
+.imageflottante
+{
+	float:left;
+}
+.dessous
+{
+	clear: both;
+}
+h1
+{
+	color: #4294c4;
+}
+mark
+{
+	background: white;
+	color: red;
+}
+body
+{
+	background-image: url("rvlf.jpg");
+	color: white;
+	background-attachment: fixed;
+}
+h1
+{
+	border: 2px green outset;
+	box-shadow: 6px 6px 10px red;
+}
+p
+{
+	border:2px yellow solid;
+	border-radius: 10px 5px 10px 5px;
+	box-shadow: 10px 10px 8px black;
+}
+a:hover
+{
+	text-decoration: underline;
+	color: green;
+}
+a:active
+{
+	background-color: #FFCC66;
+}
+a:visited
+{
+	color: #AAA;
+}
